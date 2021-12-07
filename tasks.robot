@@ -23,7 +23,6 @@ ${myrow}=         Head  Body  Legs  Address
 ${output_folder}  ${CURDIR}${/}output
 ${img_folder}     ${CURDIR}${/}image_files
 ${zip_file}       ${output_folder}${/}pdf_archive.zip
-${username}=      Get The User Name
 
 
 ***keywords
